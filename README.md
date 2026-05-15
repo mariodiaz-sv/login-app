@@ -291,16 +291,6 @@ para manejar conexiones persistentes correctamente.
 
 ---
 
-# Capturas de pantalla
-
-Agregar aquí:
-
-- Pantalla Login
-- Registro
-- Dashboard
-- Docker funcionando
-
----
 
 # Autor
 

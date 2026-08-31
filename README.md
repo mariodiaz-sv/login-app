@@ -109,7 +109,7 @@ docker compose version
 # Clonar el proyecto
 
 ```bash
-git clone https://github.com/USUARIO/REPOSITORIO.git
+git clone [https://github.com/mariodiaz-sv/login-app]
 ```
 
 Entrar al proyecto:
